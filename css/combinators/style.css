@@ -1,0 +1,15 @@
+article p {
+	color: blue;
+}
+
+span, mark {
+	color: red;
+}
+
+h2 + p {
+	color: rgb(65, 179, 52);
+}
+
+aside > ul {
+	margin-top: 60px;
+}
